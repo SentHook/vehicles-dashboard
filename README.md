@@ -33,4 +33,4 @@ An interactive web application for exploring used vehicle sales advertisements, 
 
 ## Live Application
 
-Deployment on Render pending.
+[View the live dashboard on Render](https://vehicles-dashboard-7d3n.onrender.com/)
